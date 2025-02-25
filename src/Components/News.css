@@ -492,10 +492,6 @@
     flex-direction: column;
   }
 
-  .news-section {
-    margin-top: 2rem;
-  }
-
   .news-footer {
     min-height: 8rem;
     flex-direction: column;
